@@ -1,6 +1,6 @@
 {
   "name": "file-search-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "recursive async file search",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   ],
   "preferGlobal": true,
   "bin": {
-    "test-file-search-cli": "index.js"
+    "file-search-cli": "index.js"
   },
   "author": "serhii+_y\u001b[D\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[\u001b[C\u001b[C_y",
   "license": "MIT",
@@ -24,5 +24,3 @@
     "url": "https://github.com/silencebird/file-search-cli.git"
   }
 }
-
-
